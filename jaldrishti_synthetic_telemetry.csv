@@ -1,0 +1,401 @@
+Pump_ID,Gram_Panchayat,Cluster,Pump_Type,Recency_Raw,Tariff_Freq_6M,OM_Reserve_Raw,Energy_Discharge_Ratio_Raw,Daily_Runtime_Hrs,Public_Utility_Priority,CGWB_Aquifer_Drop_m,Ground_Truth_Breakdown
+PUMP-JJM-0001,Gram Panchayat #101,Cluster A - North Plains,Handpump Motor Assist 3HP,82,0,2139,108.61 L/kWh,3.8,0,1.21,1
+PUMP-JJM-0002,Gram Panchayat #102,Cluster B - Southern Hills,Handpump Motor Assist 3HP,78 days,0,"₹ 37,281",83.80,4.4,0,0.71,0
+PUMP-JJM-0003,Gram Panchayat #103,Cluster A - North Plains,Dual Solar-Grid 7.5HP,104 days,1,"₹ 28,196",99.07 L/kWh,11.6,0,0.09,0
+PUMP-JJM-0004,Gram Panchayat #104,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,94 days,3,"₹ 35,642",127.16,3.7,1,0.07,0
+PUMP-JJM-0005,Gram Panchayat #105,Cluster C - Eastern Delta,Grid Electric 10HP,30 days,6,"₹ 19,465",178.52 L/kWh,10.7,0,0.54,0
+PUMP-JJM-0006,Gram Panchayat #106,Cluster B - Southern Hills,Handpump Motor Assist 3HP,88 days,5,"₹ 5,179",103.62 L/kWh,8.3,0,1.18,0
+PUMP-JJM-0007,Gram Panchayat #107,Cluster C - Eastern Delta,Solar Submersible 5HP,72 days,1,"₹ 21,752",143.35 L/kWh,4.7,0,0.34,0
+PUMP-JJM-0008,Gram Panchayat #108,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,41 days,1,"₹ 43,454",59.47 L/kWh,7.2,1,0.93,0
+PUMP-JJM-0009,Gram Panchayat #109,Cluster A - North Plains,Solar Submersible 5HP,96 days,4,"₹ 28,577",138.31 L/kWh,4.6,1,0.64,0
+PUMP-JJM-0010,Gram Panchayat #110,Cluster C - Eastern Delta,Solar Submersible 5HP,88 days,3,39586,88.84 L/kWh,3.1,0,5.0,0
+PUMP-JJM-0011,Gram Panchayat #111,Cluster C - Eastern Delta,Grid Electric 10HP,97 days,2,42506,94.34 L/kWh,4.0,0,1.15,0
+PUMP-JJM-0012,Gram Panchayat #112,Cluster A - North Plains,Dual Solar-Grid 7.5HP,108 days,5,33770,134.62 L/kWh,8.3,0,1.29,0
+PUMP-JJM-0013,Gram Panchayat #113,Cluster A - North Plains,Grid Electric 10HP,107 days,6,"₹ 20,653",111.72 L/kWh,7.9,0,1.18,0
+PUMP-JJM-0014,Gram Panchayat #114,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,34 days,4,"₹ 40,253",135.93 L/kWh,6.5,0,0.7,0
+PUMP-JJM-0015,Gram Panchayat #115,Cluster B - Southern Hills,Solar Submersible 5HP,116,4,"₹ 30,088",128.09 L/kWh,5.7,0,0.24,0
+PUMP-JJM-0016,Gram Panchayat #116,Cluster B - Southern Hills,Grid Electric 10HP,116 days,0,"₹ 22,154",127.21 L/kWh,3.2,0,1.0,1
+PUMP-JJM-0017,Gram Panchayat #117,Cluster D - Western Arid Zone,Solar Submersible 5HP,32 days,6,"₹ 31,496",118.04,3.4,0,0.5,0
+PUMP-JJM-0018,Gram Panchayat #118,Cluster D - Western Arid Zone,Grid Electric 10HP,52 days,5,"₹ 22,736",88.72 L/kWh,10.1,0,0.19,0
+PUMP-JJM-0019,Gram Panchayat #119,Cluster A - North Plains,Solar Submersible 5HP,119 days,0,"₹ 29,541",134.57 L/kWh,3.4,1,0.7,0
+PUMP-JJM-0020,Gram Panchayat #120,Cluster A - North Plains,Handpump Motor Assist 3HP,63 days,3,"₹ 14,508",45.63 L/kWh,10.7,1,0.16,0
+PUMP-JJM-0021,Gram Panchayat #121,Cluster A - North Plains,Dual Solar-Grid 7.5HP,55,5,"₹ 36,922",88.74 L/kWh,4.3,0,0.05,0
+PUMP-JJM-0022,Gram Panchayat #122,Cluster A - North Plains,Solar Submersible 5HP,110 days,4,"₹ 10,817",75.62 L/kWh,3.0,0,1.72,1
+PUMP-JJM-0023,Gram Panchayat #123,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,114 days,4,"₹ 16,635",101.23 L/kWh,3.3,1,0.75,0
+PUMP-JJM-0024,Gram Panchayat #124,Cluster A - North Plains,Solar Submersible 5HP,51 days,1,"₹ 44,519",105.26 L/kWh,8.6,0,2.38,0
+PUMP-JJM-0025,Gram Panchayat #125,Cluster C - Eastern Delta,Grid Electric 10HP,10 days,4,"₹ 14,469",91.35 L/kWh,5.8,0,0.25,0
+PUMP-JJM-0026,Gram Panchayat #126,Cluster A - North Plains,Grid Electric 10HP,104 days,5,"₹ 35,164",109.31 L/kWh,2.6,1,0.32,0
+PUMP-JJM-0027,Gram Panchayat #127,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,20 days,2,"₹ 18,965",65.98,4.4,0,0.28,0
+PUMP-JJM-0028,Gram Panchayat #128,Cluster C - Eastern Delta,Grid Electric 10HP,55 days,6,"₹ 18,632",75.93 L/kWh,2.9,0,0.13,0
+PUMP-JJM-0029,Gram Panchayat #129,Cluster B - Southern Hills,Handpump Motor Assist 3HP,2 days,0,"₹ 5,431",160.48 L/kWh,3.9,0,0.41,0
+PUMP-JJM-0030,Gram Panchayat #130,Cluster A - North Plains,Dual Solar-Grid 7.5HP,102 days,6,"₹ 3,114",91.85 L/kWh,11.0,0,0.26,0
+PUMP-JJM-0031,Gram Panchayat #131,Cluster D - Western Arid Zone,Solar Submersible 5HP,80 days,5,"₹ 10,628",132.98 L/kWh,4.0,1,0.18,0
+PUMP-JJM-0032,Gram Panchayat #132,Cluster A - North Plains,Handpump Motor Assist 3HP,53 days,6,"₹ 44,403",98.43 L/kWh,10.7,1,0.28,0
+PUMP-JJM-0033,Gram Panchayat #133,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,105 days,3,"₹ 23,415",88.81 L/kWh,4.7,0,0.19,0
+PUMP-JJM-0034,Gram Panchayat #134,Cluster A - North Plains,Solar Submersible 5HP,83 days,4,"₹ 26,693",168.63 L/kWh,9.0,1,0.36,0
+PUMP-JJM-0035,Gram Panchayat #135,Cluster A - North Plains,Handpump Motor Assist 3HP,34 days,0,"₹ 7,604",83.52,10.0,0,3.74,0
+PUMP-JJM-0036,Gram Panchayat #136,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,56 days,0,"₹ 34,573",91.62 L/kWh,11.3,0,1.14,0
+PUMP-JJM-0037,Gram Panchayat #137,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,80 days,2,"₹ 43,975",142.25 L/kWh,5.4,0,0.47,0
+PUMP-JJM-0038,Gram Panchayat #138,Cluster A - North Plains,Dual Solar-Grid 7.5HP,49 days,5,"₹ 11,905",64.43 L/kWh,8.3,0,0.71,0
+PUMP-JJM-0039,Gram Panchayat #139,Cluster B - Southern Hills,Solar Submersible 5HP,84 days,2,"₹ 30,973",60.95 L/kWh,7.4,1,2.89,0
+PUMP-JJM-0040,Gram Panchayat #140,Cluster A - North Plains,Solar Submersible 5HP,12 days,6,"₹ 15,892",128.78 L/kWh,8.9,0,0.2,0
+PUMP-JJM-0041,Gram Panchayat #141,Cluster B - Southern Hills,Solar Submersible 5HP,10 days,3,"₹ 27,660",144.59 L/kWh,9.3,0,0.46,0
+PUMP-JJM-0042,Gram Panchayat #142,Cluster A - North Plains,Grid Electric 10HP,100 days,3,14841,79.94 L/kWh,4.2,1,0.66,1
+PUMP-JJM-0043,Gram Panchayat #143,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,60 days,5,"₹ 35,308",156.95 L/kWh,11.5,1,0.85,0
+PUMP-JJM-0044,Gram Panchayat #144,Cluster D - Western Arid Zone,Grid Electric 10HP,34 days,6,16703,106.42 L/kWh,10.5,0,1.35,0
+PUMP-JJM-0045,Gram Panchayat #100,Cluster B - Southern Hills,Solar Submersible 5HP,35 days,2,"₹ 21,452",121.23 L/kWh,3.9,0,0.15,0
+PUMP-JJM-0046,Gram Panchayat #101,Cluster A - North Plains,Handpump Motor Assist 3HP,8 days,1,"₹ 28,034",101.07 L/kWh,6.2,1,2.63,0
+PUMP-JJM-0047,Gram Panchayat #102,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,50 days,6,"₹ 27,960",54.62 L/kWh,10.1,1,0.6,0
+PUMP-JJM-0048,Gram Panchayat #103,Cluster A - North Plains,Handpump Motor Assist 3HP,103 days,3,"₹ 11,316",96.44,10.5,1,3.55,1
+PUMP-JJM-0049,Gram Panchayat #104,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,55 days,1,"₹ 30,757",121.30 L/kWh,5.6,0,0.37,0
+PUMP-JJM-0050,Gram Panchayat #105,Cluster B - Southern Hills,Solar Submersible 5HP,11 days,3,"₹ 1,770",134.71 L/kWh,9.6,0,2.73,0
+PUMP-JJM-0051,Gram Panchayat #106,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,32 days,1,"₹ 1,835",91.31 L/kWh,7.0,0,2.66,0
+PUMP-JJM-0052,Gram Panchayat #107,Cluster A - North Plains,Dual Solar-Grid 7.5HP,96 days,5,"₹ 8,006",92.15 L/kWh,9.9,0,0.34,0
+PUMP-JJM-0053,Gram Panchayat #108,Cluster A - North Plains,Solar Submersible 5HP,92 days,1,"₹ 5,480",54.79 L/kWh,4.8,1,0.32,1
+PUMP-JJM-0054,Gram Panchayat #109,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,65 days,5,"₹ 22,862",73.93 L/kWh,2.6,0,0.61,0
+PUMP-JJM-0055,Gram Panchayat #110,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,56 days,1,"₹ 34,693",137.12 L/kWh,10.2,0,0.59,0
+PUMP-JJM-0056,Gram Panchayat #111,Cluster C - Eastern Delta,Solar Submersible 5HP,36 days,3,"₹ 16,481",104.02 L/kWh,9.6,0,0.99,0
+PUMP-JJM-0057,Gram Panchayat #112,Cluster B - Southern Hills,Solar Submersible 5HP,46 days,6,"₹ 17,431",71.23 L/kWh,9.2,0,0.01,0
+PUMP-JJM-0058,Gram Panchayat #113,Cluster A - North Plains,Dual Solar-Grid 7.5HP,31 days,5,"₹ 31,701",170.81 L/kWh,8.6,0,1.42,0
+PUMP-JJM-0059,Gram Panchayat #114,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,75 days,2,"₹ 31,515",79.67 L/kWh,12.0,0,0.39,0
+PUMP-JJM-0060,Gram Panchayat #115,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,41 days,0,"₹ 35,618",99.41 L/kWh,11.5,1,0.19,0
+PUMP-JJM-0061,Gram Panchayat #116,Cluster A - North Plains,Solar Submersible 5HP,37 days,0,"₹ 13,221",100.51 L/kWh,5.4,1,0.12,0
+PUMP-JJM-0062,Gram Panchayat #117,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,112 days,6,"₹ 32,670",141.73 L/kWh,3.5,0,0.3,0
+PUMP-JJM-0063,Gram Panchayat #118,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,111,3,"₹ 7,976",125.50 L/kWh,3.2,0,0.05,0
+PUMP-JJM-0064,Gram Panchayat #119,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,54 days,4,"₹ 39,567",78.16 L/kWh,10.0,0,0.67,0
+PUMP-JJM-0065,Gram Panchayat #120,Cluster A - North Plains,Grid Electric 10HP,73 days,4,"₹ 4,447",65.64 L/kWh,11.5,0,0.21,0
+PUMP-JJM-0066,Gram Panchayat #121,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,53,3,"₹ 39,416",73.48 L/kWh,7.0,0,0.31,0
+PUMP-JJM-0067,Gram Panchayat #122,Cluster C - Eastern Delta,Grid Electric 10HP,102,5,"₹ 39,152",66.83 L/kWh,6.5,0,0.94,0
+PUMP-JJM-0068,Gram Panchayat #123,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,96 days,6,"₹ 37,803",40.84 L/kWh,11.3,0,0.57,1
+PUMP-JJM-0069,Gram Panchayat #124,Cluster A - North Plains,Dual Solar-Grid 7.5HP,11 days,4,"₹ 3,112",153.79 L/kWh,8.2,0,0.23,0
+PUMP-JJM-0070,Gram Panchayat #125,Cluster D - Western Arid Zone,Solar Submersible 5HP,67 days,5,"₹ 29,481",73.51 L/kWh,11.2,0,0.79,0
+PUMP-JJM-0071,Gram Panchayat #126,Cluster A - North Plains,Handpump Motor Assist 3HP,14,6,"₹ 11,039",84.12 L/kWh,5.2,1,1.51,0
+PUMP-JJM-0072,Gram Panchayat #127,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,99,3,"₹ 34,224",157.21 L/kWh,10.3,0,1.83,0
+PUMP-JJM-0073,Gram Panchayat #128,Cluster D - Western Arid Zone,Solar Submersible 5HP,64,5,"₹ 29,469",111.48 L/kWh,7.7,1,0.52,0
+PUMP-JJM-0074,Gram Panchayat #129,Cluster A - North Plains,Handpump Motor Assist 3HP,91 days,1,"₹ 20,865",86.43 L/kWh,7.7,0,0.09,1
+PUMP-JJM-0075,Gram Panchayat #130,Cluster B - Southern Hills,Handpump Motor Assist 3HP,92 days,2,"₹ 33,849",99.97 L/kWh,7.1,0,0.55,0
+PUMP-JJM-0076,Gram Panchayat #131,Cluster C - Eastern Delta,Solar Submersible 5HP,18 days,6,"₹ 5,075",75.14 L/kWh,5.1,1,0.48,0
+PUMP-JJM-0077,Gram Panchayat #132,Cluster C - Eastern Delta,Grid Electric 10HP,85 days,3,"₹ 10,238",71.97 L/kWh,5.7,1,0.43,1
+PUMP-JJM-0078,Gram Panchayat #133,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,110 days,6,"₹ 27,420",123.28 L/kWh,2.9,1,1.1,0
+PUMP-JJM-0079,Gram Panchayat #134,Cluster A - North Plains,Handpump Motor Assist 3HP,20,3,2926,173.68 L/kWh,5.7,0,1.68,0
+PUMP-JJM-0080,Gram Panchayat #135,Cluster D - Western Arid Zone,Solar Submersible 5HP,20 days,0,"₹ 31,268",174.68 L/kWh,9.9,0,0.88,0
+PUMP-JJM-0081,Gram Panchayat #136,Cluster C - Eastern Delta,Grid Electric 10HP,49 days,2,"₹ 41,577",98.46,10.8,0,0.06,0
+PUMP-JJM-0082,Gram Panchayat #137,Cluster A - North Plains,Dual Solar-Grid 7.5HP,82 days,5,"₹ 7,086",52.06 L/kWh,6.7,1,2.1,0
+PUMP-JJM-0083,Gram Panchayat #138,Cluster D - Western Arid Zone,Grid Electric 10HP,19 days,1,"₹ 35,310",64.92 L/kWh,4.2,0,0.85,0
+PUMP-JJM-0084,Gram Panchayat #139,Cluster C - Eastern Delta,Grid Electric 10HP,82,2,"₹ 30,618",137.80 L/kWh,4.9,0,1.47,0
+PUMP-JJM-0085,Gram Panchayat #140,Cluster A - North Plains,Grid Electric 10HP,39 days,5,"₹ 28,307",95.84 L/kWh,5.4,1,1.73,0
+PUMP-JJM-0086,Gram Panchayat #141,Cluster A - North Plains,Handpump Motor Assist 3HP,90 days,2,"₹ 1,937",74.02 L/kWh,11.8,1,0.29,1
+PUMP-JJM-0087,Gram Panchayat #142,Cluster B - Southern Hills,Solar Submersible 5HP,30 days,4,"₹ 23,589",114.40 L/kWh,4.9,1,1.31,0
+PUMP-JJM-0088,Gram Panchayat #143,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,57 days,0,38482,132.30 L/kWh,6.0,0,2.16,0
+PUMP-JJM-0089,Gram Panchayat #144,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,47 days,4,"₹ 33,385",166.44,4.9,1,0.59,0
+PUMP-JJM-0090,Gram Panchayat #100,Cluster C - Eastern Delta,Solar Submersible 5HP,97 days,1,44823,75.90 L/kWh,9.4,1,3.08,1
+PUMP-JJM-0091,Gram Panchayat #101,Cluster B - Southern Hills,Handpump Motor Assist 3HP,59,2,"₹ 44,594",109.83 L/kWh,6.1,0,0.42,0
+PUMP-JJM-0092,Gram Panchayat #102,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,118 days,4,15007,82.71,8.7,0,0.56,1
+PUMP-JJM-0093,Gram Panchayat #103,Cluster D - Western Arid Zone,Grid Electric 10HP,64 days,0,"₹ 6,869",114.15 L/kWh,6.2,0,2.69,0
+PUMP-JJM-0094,Gram Panchayat #104,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,79,3,"₹ 18,833",153.27 L/kWh,2.8,0,0.53,0
+PUMP-JJM-0095,Gram Panchayat #105,Cluster B - Southern Hills,Solar Submersible 5HP,83,2,"₹ 4,468",91.79 L/kWh,3.7,1,0.55,1
+PUMP-JJM-0096,Gram Panchayat #106,Cluster B - Southern Hills,Grid Electric 10HP,101 days,4,13948,123.56 L/kWh,3.2,1,0.21,0
+PUMP-JJM-0097,Gram Panchayat #107,Cluster B - Southern Hills,Solar Submersible 5HP,1 days,2,"₹ 9,982",153.50 L/kWh,10.1,0,1.81,0
+PUMP-JJM-0098,Gram Panchayat #108,Cluster A - North Plains,Handpump Motor Assist 3HP,3 days,1,"₹ 17,891",106.58 L/kWh,3.0,1,0.67,0
+PUMP-JJM-0099,Gram Panchayat #109,Cluster D - Western Arid Zone,Solar Submersible 5HP,58,4,"₹ 15,019",119.81 L/kWh,9.9,1,0.66,0
+PUMP-JJM-0100,Gram Panchayat #110,Cluster C - Eastern Delta,Grid Electric 10HP,88,0,"₹ 32,630",106.50 L/kWh,9.3,0,2.07,0
+PUMP-JJM-0101,Gram Panchayat #111,Cluster A - North Plains,Grid Electric 10HP,71 days,5,"₹ 21,811",75.40 L/kWh,5.3,0,0.51,0
+PUMP-JJM-0102,Gram Panchayat #112,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,106 days,3,"₹ 26,631",142.12 L/kWh,6.5,0,0.5,0
+PUMP-JJM-0103,Gram Panchayat #113,Cluster C - Eastern Delta,Solar Submersible 5HP,12 days,6,"₹ 6,094",123.14 L/kWh,9.5,1,0.73,0
+PUMP-JJM-0104,Gram Panchayat #114,Cluster B - Southern Hills,Grid Electric 10HP,55 days,6,"₹ 3,871",118.72 L/kWh,11.7,0,0.39,0
+PUMP-JJM-0105,Gram Panchayat #115,Cluster A - North Plains,Dual Solar-Grid 7.5HP,109,4,"₹ 24,588",131.23 L/kWh,4.6,0,0.74,0
+PUMP-JJM-0106,Gram Panchayat #116,Cluster D - Western Arid Zone,Solar Submersible 5HP,118 days,2,"₹ 23,504",128.69,2.6,1,0.75,0
+PUMP-JJM-0107,Gram Panchayat #117,Cluster A - North Plains,Solar Submersible 5HP,96 days,4,"₹ 14,598",82.58,4.0,0,0.35,0
+PUMP-JJM-0108,Gram Panchayat #118,Cluster C - Eastern Delta,Grid Electric 10HP,11 days,2,29539,137.01 L/kWh,8.8,0,0.53,0
+PUMP-JJM-0109,Gram Panchayat #119,Cluster A - North Plains,Solar Submersible 5HP,37 days,5,"₹ 44,965",74.30 L/kWh,5.4,0,3.75,0
+PUMP-JJM-0110,Gram Panchayat #120,Cluster B - Southern Hills,Grid Electric 10HP,98 days,2,"₹ 19,469",86.35 L/kWh,5.6,0,1.24,1
+PUMP-JJM-0111,Gram Panchayat #121,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,107 days,5,"₹ 23,710",172.61 L/kWh,2.9,0,2.29,0
+PUMP-JJM-0112,Gram Panchayat #122,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,15,3,"₹ 1,866",140.47 L/kWh,11.7,0,2.65,0
+PUMP-JJM-0113,Gram Panchayat #123,Cluster A - North Plains,Solar Submersible 5HP,76 days,3,"₹ 34,838",172.30 L/kWh,9.6,0,1.36,0
+PUMP-JJM-0114,Gram Panchayat #124,Cluster B - Southern Hills,Grid Electric 10HP,45 days,5,"₹ 42,799",143.57 L/kWh,10.2,0,0.14,0
+PUMP-JJM-0115,Gram Panchayat #125,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,23 days,6,41653,51.39 L/kWh,9.7,0,2.32,0
+PUMP-JJM-0116,Gram Panchayat #126,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,39,6,"₹ 18,501",112.17 L/kWh,8.1,0,0.07,0
+PUMP-JJM-0117,Gram Panchayat #127,Cluster A - North Plains,Handpump Motor Assist 3HP,83 days,6,"₹ 6,417",78.77 L/kWh,6.9,0,1.41,0
+PUMP-JJM-0118,Gram Panchayat #128,Cluster C - Eastern Delta,Solar Submersible 5HP,78 days,3,"₹ 33,357",82.47 L/kWh,3.9,0,0.1,0
+PUMP-JJM-0119,Gram Panchayat #129,Cluster C - Eastern Delta,Solar Submersible 5HP,57 days,3,"₹ 34,845",89.63,6.0,0,0.47,0
+PUMP-JJM-0120,Gram Panchayat #130,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,13,4,"₹ 44,958",107.07 L/kWh,6.2,0,1.72,0
+PUMP-JJM-0121,Gram Panchayat #131,Cluster C - Eastern Delta,Grid Electric 10HP,40 days,5,"₹ 43,893",73.37 L/kWh,11.4,0,0.43,0
+PUMP-JJM-0122,Gram Panchayat #132,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,88 days,4,"₹ 6,624",139.55 L/kWh,8.6,0,0.4,0
+PUMP-JJM-0123,Gram Panchayat #133,Cluster A - North Plains,Dual Solar-Grid 7.5HP,63 days,1,"₹ 15,346",130.31 L/kWh,5.3,1,0.64,0
+PUMP-JJM-0124,Gram Panchayat #134,Cluster B - Southern Hills,Handpump Motor Assist 3HP,20,1,"₹ 12,351",110.00 L/kWh,10.4,1,1.49,0
+PUMP-JJM-0125,Gram Panchayat #135,Cluster D - Western Arid Zone,Grid Electric 10HP,57 days,4,"₹ 19,173",110.92 L/kWh,4.7,0,3.03,0
+PUMP-JJM-0126,Gram Panchayat #136,Cluster B - Southern Hills,Grid Electric 10HP,60 days,6,18966,48.75 L/kWh,9.9,0,0.49,0
+PUMP-JJM-0127,Gram Panchayat #137,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,83 days,3,"₹ 24,827",94.66 L/kWh,10.5,1,0.3,0
+PUMP-JJM-0128,Gram Panchayat #138,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,12 days,1,"₹ 30,065",104.53 L/kWh,10.9,1,0.48,0
+PUMP-JJM-0129,Gram Panchayat #139,Cluster D - Western Arid Zone,Grid Electric 10HP,4 days,2,"₹ 6,993",136.95 L/kWh,10.0,0,0.3,0
+PUMP-JJM-0130,Gram Panchayat #140,Cluster D - Western Arid Zone,Solar Submersible 5HP,116 days,0,"₹ 1,745",67.04 L/kWh,4.9,1,0.72,1
+PUMP-JJM-0131,Gram Panchayat #141,Cluster A - North Plains,Grid Electric 10HP,31 days,3,"₹ 42,374",120.54,3.6,1,0.82,0
+PUMP-JJM-0132,Gram Panchayat #142,Cluster C - Eastern Delta,Solar Submersible 5HP,46 days,1,"₹ 37,899",72.78 L/kWh,6.5,1,0.08,0
+PUMP-JJM-0133,Gram Panchayat #143,Cluster A - North Plains,Dual Solar-Grid 7.5HP,65 days,4,"₹ 1,832",79.53 L/kWh,8.5,1,0.26,0
+PUMP-JJM-0134,Gram Panchayat #144,Cluster C - Eastern Delta,Grid Electric 10HP,81 days,0,"₹ 38,635",135.06 L/kWh,9.5,0,0.04,0
+PUMP-JJM-0135,Gram Panchayat #100,Cluster A - North Plains,Grid Electric 10HP,62 days,5,"₹ 12,445",114.76 L/kWh,9.9,0,0.31,0
+PUMP-JJM-0136,Gram Panchayat #101,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,51 days,6,36088,98.29 L/kWh,7.0,0,0.94,0
+PUMP-JJM-0137,Gram Panchayat #102,Cluster B - Southern Hills,Handpump Motor Assist 3HP,35 days,0,"₹ 24,618",77.36 L/kWh,6.7,1,0.37,0
+PUMP-JJM-0138,Gram Panchayat #103,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,35 days,6,5914,123.65 L/kWh,9.4,0,0.83,0
+PUMP-JJM-0139,Gram Panchayat #104,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,40 days,3,"₹ 39,993",105.74 L/kWh,6.7,0,1.17,0
+PUMP-JJM-0140,Gram Panchayat #105,Cluster B - Southern Hills,Solar Submersible 5HP,10 days,5,"₹ 42,280",89.30 L/kWh,6.4,0,1.25,0
+PUMP-JJM-0141,Gram Panchayat #106,Cluster B - Southern Hills,Handpump Motor Assist 3HP,5 days,1,"₹ 4,906",114.43 L/kWh,5.9,1,0.03,0
+PUMP-JJM-0142,Gram Panchayat #107,Cluster A - North Plains,Solar Submersible 5HP,74 days,1,"₹ 35,198",160.19 L/kWh,6.0,0,0.29,0
+PUMP-JJM-0143,Gram Panchayat #108,Cluster D - Western Arid Zone,Grid Electric 10HP,72 days,0,"₹ 17,655",118.53 L/kWh,4.5,0,1.07,0
+PUMP-JJM-0144,Gram Panchayat #109,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,116 days,5,"₹ 29,670",56.05 L/kWh,12.0,1,3.09,0
+PUMP-JJM-0145,Gram Panchayat #110,Cluster A - North Plains,Grid Electric 10HP,39 days,6,"₹ 10,822",90.95 L/kWh,8.6,1,0.64,0
+PUMP-JJM-0146,Gram Panchayat #111,Cluster A - North Plains,Solar Submersible 5HP,47 days,4,"₹ 38,004",32.15 L/kWh,6.0,1,0.72,1
+PUMP-JJM-0147,Gram Panchayat #112,Cluster C - Eastern Delta,Grid Electric 10HP,68 days,3,"₹ 27,332",116.09 L/kWh,11.7,0,0.54,0
+PUMP-JJM-0148,Gram Panchayat #113,Cluster A - North Plains,Grid Electric 10HP,24 days,6,"₹ 8,956",97.73 L/kWh,6.6,1,0.05,0
+PUMP-JJM-0149,Gram Panchayat #114,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,29 days,2,34506,163.47 L/kWh,4.9,0,0.72,0
+PUMP-JJM-0150,Gram Panchayat #115,Cluster C - Eastern Delta,Solar Submersible 5HP,76 days,4,10605,68.49,4.1,0,2.09,0
+PUMP-JJM-0151,Gram Panchayat #116,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,83 days,6,"₹ 38,299",107.79 L/kWh,7.9,0,0.03,0
+PUMP-JJM-0152,Gram Panchayat #117,Cluster D - Western Arid Zone,Grid Electric 10HP,39 days,3,5282,133.98 L/kWh,9.0,0,0.48,0
+PUMP-JJM-0153,Gram Panchayat #118,Cluster D - Western Arid Zone,Solar Submersible 5HP,41 days,5,"₹ 23,134",128.31,6.0,0,0.35,0
+PUMP-JJM-0154,Gram Panchayat #119,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,38 days,3,"₹ 40,829",107.14 L/kWh,6.5,1,2.09,0
+PUMP-JJM-0155,Gram Panchayat #120,Cluster C - Eastern Delta,Solar Submersible 5HP,60,3,"₹ 20,720",94.80 L/kWh,6.2,0,0.25,0
+PUMP-JJM-0156,Gram Panchayat #121,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,84 days,5,"₹ 31,340",110.25 L/kWh,5.2,0,0.1,0
+PUMP-JJM-0157,Gram Panchayat #122,Cluster C - Eastern Delta,Solar Submersible 5HP,52 days,0,37873,79.26 L/kWh,5.2,0,0.54,0
+PUMP-JJM-0158,Gram Panchayat #123,Cluster A - North Plains,Solar Submersible 5HP,44,4,"₹ 24,460",97.42 L/kWh,9.7,0,0.64,0
+PUMP-JJM-0159,Gram Panchayat #124,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,67 days,3,"₹ 10,260",76.91 L/kWh,5.6,0,0.16,0
+PUMP-JJM-0160,Gram Panchayat #125,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,73 days,2,"₹ 31,622",83.91 L/kWh,10.2,0,1.01,0
+PUMP-JJM-0161,Gram Panchayat #126,Cluster A - North Plains,Handpump Motor Assist 3HP,4 days,4,"₹ 31,602",105.02 L/kWh,11.7,0,0.23,0
+PUMP-JJM-0162,Gram Panchayat #127,Cluster A - North Plains,Grid Electric 10HP,108,3,"₹ 10,184",160.86 L/kWh,10.3,0,0.76,0
+PUMP-JJM-0163,Gram Panchayat #128,Cluster B - Southern Hills,Grid Electric 10HP,89 days,1,"₹ 27,394",61.88 L/kWh,7.0,1,1.17,1
+PUMP-JJM-0164,Gram Panchayat #129,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,49 days,2,"₹ 11,849",109.45 L/kWh,6.9,0,0.71,0
+PUMP-JJM-0165,Gram Panchayat #130,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,29 days,2,"₹ 19,440",95.02 L/kWh,7.1,0,0.74,0
+PUMP-JJM-0166,Gram Panchayat #131,Cluster C - Eastern Delta,Solar Submersible 5HP,51 days,6,"₹ 23,118",58.55 L/kWh,11.6,1,0.31,0
+PUMP-JJM-0167,Gram Panchayat #132,Cluster B - Southern Hills,Grid Electric 10HP,62,1,"₹ 13,742",123.10 L/kWh,7.8,0,0.1,0
+PUMP-JJM-0168,Gram Panchayat #133,Cluster B - Southern Hills,Solar Submersible 5HP,30 days,0,"₹ 7,066",85.44 L/kWh,6.4,1,0.1,0
+PUMP-JJM-0169,Gram Panchayat #134,Cluster A - North Plains,Grid Electric 10HP,84 days,3,"₹ 31,790",75.61 L/kWh,5.2,0,0.05,0
+PUMP-JJM-0170,Gram Panchayat #135,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,117 days,1,"₹ 27,886",62.33 L/kWh,10.9,0,2.27,1
+PUMP-JJM-0171,Gram Panchayat #136,Cluster D - Western Arid Zone,Grid Electric 10HP,38 days,0,"₹ 1,107",95.76 L/kWh,11.3,0,0.55,0
+PUMP-JJM-0172,Gram Panchayat #137,Cluster A - North Plains,Dual Solar-Grid 7.5HP,15 days,2,"₹ 11,149",155.38 L/kWh,9.4,0,1.14,0
+PUMP-JJM-0173,Gram Panchayat #138,Cluster B - Southern Hills,Grid Electric 10HP,23 days,4,"₹ 42,359",162.32,7.4,0,1.0,0
+PUMP-JJM-0174,Gram Panchayat #139,Cluster A - North Plains,Dual Solar-Grid 7.5HP,50 days,1,"₹ 29,777",70.49,9.7,1,0.32,0
+PUMP-JJM-0175,Gram Panchayat #140,Cluster A - North Plains,Dual Solar-Grid 7.5HP,16 days,3,"₹ 20,606",138.63 L/kWh,11.3,1,1.32,0
+PUMP-JJM-0176,Gram Panchayat #141,Cluster D - Western Arid Zone,Grid Electric 10HP,62 days,1,"₹ 30,317",154.93 L/kWh,9.6,0,0.48,0
+PUMP-JJM-0177,Gram Panchayat #142,Cluster B - Southern Hills,Grid Electric 10HP,101 days,0,"₹ 34,939",58.43 L/kWh,3.2,0,0.06,1
+PUMP-JJM-0178,Gram Panchayat #143,Cluster A - North Plains,Handpump Motor Assist 3HP,88 days,1,"₹ 38,717",127.93 L/kWh,7.1,1,0.53,0
+PUMP-JJM-0179,Gram Panchayat #144,Cluster A - North Plains,Solar Submersible 5HP,72 days,3,"₹ 44,590",129.64 L/kWh,6.3,1,1.23,0
+PUMP-JJM-0180,Gram Panchayat #100,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,8 days,0,"₹ 31,437",57.45 L/kWh,2.8,0,1.32,0
+PUMP-JJM-0181,Gram Panchayat #101,Cluster A - North Plains,Grid Electric 10HP,117 days,3,"₹ 25,118",189.06 L/kWh,10.8,0,1.77,0
+PUMP-JJM-0182,Gram Panchayat #102,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,29 days,6,₹ 727,153.63 L/kWh,9.7,1,0.56,0
+PUMP-JJM-0183,Gram Panchayat #103,Cluster B - Southern Hills,Grid Electric 10HP,36,1,"₹ 7,895",160.37 L/kWh,8.3,1,1.98,0
+PUMP-JJM-0184,Gram Panchayat #104,Cluster B - Southern Hills,Solar Submersible 5HP,87 days,5,"₹ 3,690",120.34 L/kWh,4.8,0,0.52,0
+PUMP-JJM-0185,Gram Panchayat #105,Cluster B - Southern Hills,Grid Electric 10HP,118 days,5,"₹ 38,255",90.18 L/kWh,8.9,0,0.32,0
+PUMP-JJM-0186,Gram Panchayat #106,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,76 days,5,"₹ 11,977",152.89 L/kWh,8.4,0,0.62,0
+PUMP-JJM-0187,Gram Panchayat #107,Cluster B - Southern Hills,Handpump Motor Assist 3HP,20 days,2,"₹ 25,171",127.55 L/kWh,4.8,0,1.75,0
+PUMP-JJM-0188,Gram Panchayat #108,Cluster A - North Plains,Handpump Motor Assist 3HP,72 days,4,9287,149.79 L/kWh,6.2,0,0.36,0
+PUMP-JJM-0189,Gram Panchayat #109,Cluster B - Southern Hills,Handpump Motor Assist 3HP,25 days,0,"₹ 18,093",75.81 L/kWh,2.9,0,1.47,0
+PUMP-JJM-0190,Gram Panchayat #110,Cluster D - Western Arid Zone,Grid Electric 10HP,117 days,0,"₹ 14,381",143.27 L/kWh,11.4,1,0.11,1
+PUMP-JJM-0191,Gram Panchayat #111,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,31,4,"₹ 21,577",115.47 L/kWh,7.6,0,0.27,0
+PUMP-JJM-0192,Gram Panchayat #112,Cluster B - Southern Hills,Grid Electric 10HP,108,2,"₹ 13,812",76.18 L/kWh,6.0,0,0.74,1
+PUMP-JJM-0193,Gram Panchayat #113,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,93 days,3,"₹ 19,845",128.02 L/kWh,6.1,1,0.62,0
+PUMP-JJM-0194,Gram Panchayat #114,Cluster D - Western Arid Zone,Grid Electric 10HP,95 days,3,"₹ 30,700",135.61 L/kWh,4.1,1,0.17,0
+PUMP-JJM-0195,Gram Panchayat #115,Cluster B - Southern Hills,Grid Electric 10HP,8,4,"₹ 2,716",117.30 L/kWh,10.3,0,0.01,0
+PUMP-JJM-0196,Gram Panchayat #116,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,59,2,"₹ 4,461",98.34 L/kWh,8.4,1,0.86,0
+PUMP-JJM-0197,Gram Panchayat #117,Cluster B - Southern Hills,Solar Submersible 5HP,3 days,4,"₹ 18,505",81.95 L/kWh,7.3,1,0.51,0
+PUMP-JJM-0198,Gram Panchayat #118,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,80 days,4,"₹ 17,042",103.59 L/kWh,10.2,0,0.46,0
+PUMP-JJM-0199,Gram Panchayat #119,Cluster D - Western Arid Zone,Solar Submersible 5HP,39 days,5,"₹ 5,783",70.66,9.7,0,0.43,0
+PUMP-JJM-0200,Gram Panchayat #120,Cluster A - North Plains,Solar Submersible 5HP,109 days,3,"₹ 42,764",53.09 L/kWh,10.0,0,1.76,1
+PUMP-JJM-0201,Gram Panchayat #121,Cluster A - North Plains,Grid Electric 10HP,73 days,3,"₹ 18,266",123.17 L/kWh,11.3,1,0.75,0
+PUMP-JJM-0202,Gram Panchayat #122,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,76 days,1,"₹ 26,602",113.97 L/kWh,11.3,0,0.75,0
+PUMP-JJM-0203,Gram Panchayat #123,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,89 days,5,"₹ 5,639",15.28 L/kWh,3.0,0,1.64,1
+PUMP-JJM-0204,Gram Panchayat #124,Cluster B - Southern Hills,Handpump Motor Assist 3HP,101,3,"₹ 32,652",109.53 L/kWh,4.7,0,0.42,0
+PUMP-JJM-0205,Gram Panchayat #125,Cluster C - Eastern Delta,Solar Submersible 5HP,92,0,"₹ 5,876",106.14 L/kWh,9.9,0,0.44,1
+PUMP-JJM-0206,Gram Panchayat #126,Cluster D - Western Arid Zone,Solar Submersible 5HP,98,2,"₹ 7,199",144.00,3.8,0,0.54,0
+PUMP-JJM-0207,Gram Panchayat #127,Cluster B - Southern Hills,Grid Electric 10HP,77 days,6,"₹ 21,761",113.61 L/kWh,6.4,1,1.16,0
+PUMP-JJM-0208,Gram Panchayat #128,Cluster D - Western Arid Zone,Solar Submersible 5HP,35 days,3,"₹ 10,063",105.83 L/kWh,3.1,0,0.49,0
+PUMP-JJM-0209,Gram Panchayat #129,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,64 days,4,"₹ 40,914",115.59 L/kWh,5.4,1,0.36,0
+PUMP-JJM-0210,Gram Panchayat #130,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,84 days,4,"₹ 9,421",125.68 L/kWh,5.4,0,1.07,0
+PUMP-JJM-0211,Gram Panchayat #131,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,95 days,5,"₹ 41,977",64.23 L/kWh,4.8,0,1.53,0
+PUMP-JJM-0212,Gram Panchayat #132,Cluster B - Southern Hills,Handpump Motor Assist 3HP,70 days,1,"₹ 36,551",112.59,2.8,1,2.58,0
+PUMP-JJM-0213,Gram Panchayat #133,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,109,6,"₹ 27,313",101.08 L/kWh,5.4,0,0.15,0
+PUMP-JJM-0214,Gram Panchayat #134,Cluster A - North Plains,Dual Solar-Grid 7.5HP,52 days,4,"₹ 33,701",93.04 L/kWh,11.3,1,0.49,0
+PUMP-JJM-0215,Gram Panchayat #135,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,118 days,0,"₹ 7,667",116.09,5.9,0,0.04,1
+PUMP-JJM-0216,Gram Panchayat #136,Cluster B - Southern Hills,Handpump Motor Assist 3HP,34 days,1,"₹ 33,967",59.12 L/kWh,9.6,0,1.05,0
+PUMP-JJM-0217,Gram Panchayat #137,Cluster A - North Plains,Grid Electric 10HP,89 days,4,"₹ 10,379",105.61 L/kWh,3.5,0,2.94,0
+PUMP-JJM-0218,Gram Panchayat #138,Cluster C - Eastern Delta,Solar Submersible 5HP,67 days,3,"₹ 23,326",116.46 L/kWh,7.0,0,1.07,0
+PUMP-JJM-0219,Gram Panchayat #139,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,109 days,2,"₹ 42,965",158.55 L/kWh,11.3,1,0.65,0
+PUMP-JJM-0220,Gram Panchayat #140,Cluster B - Southern Hills,Handpump Motor Assist 3HP,52 days,5,"₹ 12,588",149.84 L/kWh,4.3,1,0.45,0
+PUMP-JJM-0221,Gram Panchayat #141,Cluster A - North Plains,Dual Solar-Grid 7.5HP,27 days,2,"₹ 4,600",54.52 L/kWh,7.6,0,0.2,0
+PUMP-JJM-0222,Gram Panchayat #142,Cluster D - Western Arid Zone,Grid Electric 10HP,41 days,4,"₹ 25,969",80.69 L/kWh,8.3,0,0.38,0
+PUMP-JJM-0223,Gram Panchayat #143,Cluster B - Southern Hills,Handpump Motor Assist 3HP,79 days,4,6054,95.74 L/kWh,4.8,0,0.42,0
+PUMP-JJM-0224,Gram Panchayat #144,Cluster B - Southern Hills,Grid Electric 10HP,24 days,3,42148,83.22 L/kWh,7.6,1,2.4,0
+PUMP-JJM-0225,Gram Panchayat #100,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,58 days,4,"₹ 4,013",167.22 L/kWh,7.1,0,0.44,0
+PUMP-JJM-0226,Gram Panchayat #101,Cluster A - North Plains,Dual Solar-Grid 7.5HP,63 days,1,"₹ 5,917",45.52 L/kWh,7.9,1,0.22,1
+PUMP-JJM-0227,Gram Panchayat #102,Cluster C - Eastern Delta,Solar Submersible 5HP,73 days,5,"₹ 32,960",93.67 L/kWh,3.6,1,1.56,0
+PUMP-JJM-0228,Gram Panchayat #103,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,55 days,0,"₹ 43,339",104.73 L/kWh,9.6,0,6.55,0
+PUMP-JJM-0229,Gram Panchayat #104,Cluster D - Western Arid Zone,Grid Electric 10HP,16 days,6,"₹ 16,028",124.28 L/kWh,9.0,1,0.85,0
+PUMP-JJM-0230,Gram Panchayat #105,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,104 days,0,"₹ 37,860",165.44 L/kWh,5.8,0,0.7,0
+PUMP-JJM-0231,Gram Panchayat #106,Cluster B - Southern Hills,Grid Electric 10HP,116 days,5,"₹ 6,740",148.38 L/kWh,6.4,0,0.29,0
+PUMP-JJM-0232,Gram Panchayat #107,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,98 days,6,"₹ 44,817",153.86 L/kWh,6.2,0,0.9,0
+PUMP-JJM-0233,Gram Panchayat #108,Cluster A - North Plains,Solar Submersible 5HP,12 days,3,"₹ 34,291",109.93 L/kWh,10.8,0,0.6,0
+PUMP-JJM-0234,Gram Panchayat #109,Cluster B - Southern Hills,Handpump Motor Assist 3HP,46 days,6,"₹ 4,650",56.08 L/kWh,10.1,0,3.1,0
+PUMP-JJM-0235,Gram Panchayat #110,Cluster D - Western Arid Zone,Solar Submersible 5HP,74 days,1,"₹ 37,602",147.01 L/kWh,11.0,1,0.04,0
+PUMP-JJM-0236,Gram Panchayat #111,Cluster C - Eastern Delta,Grid Electric 10HP,1 days,3,"₹ 13,759",60.66,12.0,1,1.92,0
+PUMP-JJM-0237,Gram Panchayat #112,Cluster B - Southern Hills,Handpump Motor Assist 3HP,47 days,2,"₹ 5,901",57.52,4.1,0,0.33,0
+PUMP-JJM-0238,Gram Panchayat #113,Cluster A - North Plains,Dual Solar-Grid 7.5HP,62 days,0,"₹ 9,196",164.61 L/kWh,8.1,0,0.53,0
+PUMP-JJM-0239,Gram Panchayat #114,Cluster C - Eastern Delta,Grid Electric 10HP,17 days,3,"₹ 5,141",112.00 L/kWh,10.2,0,0.41,0
+PUMP-JJM-0240,Gram Panchayat #115,Cluster B - Southern Hills,Handpump Motor Assist 3HP,83 days,5,"₹ 9,862",125.01 L/kWh,3.1,0,0.85,0
+PUMP-JJM-0241,Gram Panchayat #116,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,118 days,3,"₹ 40,875",83.07 L/kWh,3.3,0,1.26,0
+PUMP-JJM-0242,Gram Panchayat #117,Cluster C - Eastern Delta,Solar Submersible 5HP,36 days,5,"₹ 6,021",46.04 L/kWh,4.9,0,1.15,0
+PUMP-JJM-0243,Gram Panchayat #118,Cluster B - Southern Hills,Handpump Motor Assist 3HP,67 days,4,"₹ 33,892",123.12 L/kWh,8.6,1,1.42,0
+PUMP-JJM-0244,Gram Panchayat #119,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,10 days,4,"₹ 1,290",142.34 L/kWh,11.9,1,0.13,0
+PUMP-JJM-0245,Gram Panchayat #120,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,99 days,0,"₹ 1,593",105.02 L/kWh,4.5,1,2.67,1
+PUMP-JJM-0246,Gram Panchayat #121,Cluster A - North Plains,Dual Solar-Grid 7.5HP,90,3,"₹ 5,901",106.96 L/kWh,8.6,0,0.15,0
+PUMP-JJM-0247,Gram Panchayat #122,Cluster D - Western Arid Zone,Grid Electric 10HP,20,4,21913,71.60 L/kWh,10.4,1,0.06,0
+PUMP-JJM-0248,Gram Panchayat #123,Cluster B - Southern Hills,Solar Submersible 5HP,59,4,40400,141.47,3.0,1,0.97,0
+PUMP-JJM-0249,Gram Panchayat #124,Cluster C - Eastern Delta,Solar Submersible 5HP,64 days,2,34775,45.30 L/kWh,5.0,0,1.25,0
+PUMP-JJM-0250,Gram Panchayat #125,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,35 days,4,4685,102.97 L/kWh,5.0,1,0.89,0
+PUMP-JJM-0251,Gram Panchayat #126,Cluster A - North Plains,Solar Submersible 5HP,22 days,2,10809,109.48,8.0,1,0.23,0
+PUMP-JJM-0252,Gram Panchayat #127,Cluster D - Western Arid Zone,Grid Electric 10HP,47 days,3,"₹ 10,335",126.30 L/kWh,4.2,1,0.03,0
+PUMP-JJM-0253,Gram Panchayat #128,Cluster A - North Plains,Handpump Motor Assist 3HP,35,6,"₹ 5,604",94.10 L/kWh,8.9,0,0.23,0
+PUMP-JJM-0254,Gram Panchayat #129,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,109 days,2,"₹ 21,949",102.33 L/kWh,3.3,0,0.41,0
+PUMP-JJM-0255,Gram Panchayat #130,Cluster A - North Plains,Grid Electric 10HP,64 days,6,"₹ 13,307",105.16 L/kWh,10.1,0,2.42,0
+PUMP-JJM-0256,Gram Panchayat #131,Cluster C - Eastern Delta,Solar Submersible 5HP,2 days,2,₹ 595,66.25 L/kWh,9.7,0,1.21,0
+PUMP-JJM-0257,Gram Panchayat #132,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,8 days,1,18838,175.81,11.0,0,1.09,0
+PUMP-JJM-0258,Gram Panchayat #133,Cluster B - Southern Hills,Grid Electric 10HP,18 days,5,"₹ 26,344",153.54 L/kWh,3.2,0,0.51,0
+PUMP-JJM-0259,Gram Panchayat #134,Cluster A - North Plains,Grid Electric 10HP,51 days,5,"₹ 21,881",98.44 L/kWh,3.2,0,1.36,0
+PUMP-JJM-0260,Gram Panchayat #135,Cluster C - Eastern Delta,Solar Submersible 5HP,16,4,"₹ 23,980",135.37 L/kWh,11.7,0,0.33,0
+PUMP-JJM-0261,Gram Panchayat #136,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,91 days,5,"₹ 40,038",174.42 L/kWh,5.6,0,0.26,0
+PUMP-JJM-0262,Gram Panchayat #137,Cluster A - North Plains,Handpump Motor Assist 3HP,23 days,0,"₹ 27,002",126.68 L/kWh,10.6,0,0.72,0
+PUMP-JJM-0263,Gram Panchayat #138,Cluster C - Eastern Delta,Solar Submersible 5HP,8,6,15067,154.42 L/kWh,6.0,0,0.93,0
+PUMP-JJM-0264,Gram Panchayat #139,Cluster A - North Plains,Solar Submersible 5HP,57 days,6,8940,157.73 L/kWh,3.4,1,1.49,0
+PUMP-JJM-0265,Gram Panchayat #140,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,56 days,6,26386,75.63 L/kWh,6.6,0,2.15,0
+PUMP-JJM-0266,Gram Panchayat #141,Cluster A - North Plains,Solar Submersible 5HP,79 days,1,42920,110.84 L/kWh,5.3,0,0.72,0
+PUMP-JJM-0267,Gram Panchayat #142,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,114 days,6,"₹ 34,959",110.60 L/kWh,7.7,0,0.43,0
+PUMP-JJM-0268,Gram Panchayat #143,Cluster A - North Plains,Dual Solar-Grid 7.5HP,65,2,"₹ 25,952",200.00 L/kWh,5.1,0,0.82,0
+PUMP-JJM-0269,Gram Panchayat #144,Cluster A - North Plains,Grid Electric 10HP,99 days,4,"₹ 15,754",125.86 L/kWh,8.7,0,1.52,0
+PUMP-JJM-0270,Gram Panchayat #100,Cluster C - Eastern Delta,Solar Submersible 5HP,108 days,6,"₹ 11,884",107.38 L/kWh,4.2,0,1.48,0
+PUMP-JJM-0271,Gram Panchayat #101,Cluster A - North Plains,Solar Submersible 5HP,19,4,"₹ 12,836",143.07,11.7,0,0.17,0
+PUMP-JJM-0272,Gram Panchayat #102,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,62,0,22240,55.41 L/kWh,11.2,0,0.13,1
+PUMP-JJM-0273,Gram Panchayat #103,Cluster D - Western Arid Zone,Solar Submersible 5HP,19 days,6,"₹ 7,769",149.59 L/kWh,11.6,0,2.56,0
+PUMP-JJM-0274,Gram Panchayat #104,Cluster C - Eastern Delta,Grid Electric 10HP,94 days,3,"₹ 42,394",52.89 L/kWh,11.6,0,0.17,0
+PUMP-JJM-0275,Gram Panchayat #105,Cluster A - North Plains,Grid Electric 10HP,94 days,5,"₹ 19,801",149.39 L/kWh,11.5,1,0.45,0
+PUMP-JJM-0276,Gram Panchayat #106,Cluster A - North Plains,Grid Electric 10HP,29 days,5,"₹ 37,563",150.57 L/kWh,3.5,0,0.36,0
+PUMP-JJM-0277,Gram Panchayat #107,Cluster A - North Plains,Dual Solar-Grid 7.5HP,12 days,6,44410,63.13,6.7,0,0.26,0
+PUMP-JJM-0278,Gram Panchayat #108,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,50 days,3,28002,53.99 L/kWh,11.7,1,0.61,0
+PUMP-JJM-0279,Gram Panchayat #109,Cluster A - North Plains,Dual Solar-Grid 7.5HP,111 days,4,43161,111.30 L/kWh,6.8,1,0.03,0
+PUMP-JJM-0280,Gram Panchayat #110,Cluster A - North Plains,Dual Solar-Grid 7.5HP,114 days,3,"₹ 11,045",85.01 L/kWh,9.5,0,2.06,1
+PUMP-JJM-0281,Gram Panchayat #111,Cluster B - Southern Hills,Handpump Motor Assist 3HP,4 days,3,"₹ 43,336",147.42 L/kWh,4.0,0,0.21,0
+PUMP-JJM-0282,Gram Panchayat #112,Cluster D - Western Arid Zone,Grid Electric 10HP,34,5,18949,173.26,5.3,0,0.45,0
+PUMP-JJM-0283,Gram Panchayat #113,Cluster A - North Plains,Handpump Motor Assist 3HP,106 days,5,"₹ 41,465",91.12 L/kWh,2.7,0,0.31,0
+PUMP-JJM-0284,Gram Panchayat #114,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,63 days,5,17867,96.24 L/kWh,3.4,0,0.18,0
+PUMP-JJM-0285,Gram Panchayat #115,Cluster D - Western Arid Zone,Grid Electric 10HP,34 days,1,"₹ 18,100",91.57 L/kWh,9.1,0,0.99,0
+PUMP-JJM-0286,Gram Panchayat #116,Cluster D - Western Arid Zone,Solar Submersible 5HP,54 days,4,"₹ 31,618",102.13 L/kWh,7.9,0,0.32,0
+PUMP-JJM-0287,Gram Panchayat #117,Cluster B - Southern Hills,Grid Electric 10HP,87,4,10163,152.86 L/kWh,4.1,1,3.22,0
+PUMP-JJM-0288,Gram Panchayat #118,Cluster A - North Plains,Solar Submersible 5HP,26 days,6,"₹ 41,605",150.39 L/kWh,3.9,0,0.35,0
+PUMP-JJM-0289,Gram Panchayat #119,Cluster A - North Plains,Handpump Motor Assist 3HP,36 days,4,"₹ 30,525",114.79 L/kWh,9.2,0,1.37,0
+PUMP-JJM-0290,Gram Panchayat #120,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,13 days,0,"₹ 37,376",107.25 L/kWh,9.9,1,1.82,0
+PUMP-JJM-0291,Gram Panchayat #121,Cluster C - Eastern Delta,Grid Electric 10HP,61,0,"₹ 11,785",106.90 L/kWh,8.3,1,0.04,0
+PUMP-JJM-0292,Gram Panchayat #122,Cluster D - Western Arid Zone,Solar Submersible 5HP,48 days,0,"₹ 22,642",129.26 L/kWh,10.3,0,0.3,0
+PUMP-JJM-0293,Gram Panchayat #123,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,96 days,3,"₹ 21,528",105.58 L/kWh,8.6,0,0.21,0
+PUMP-JJM-0294,Gram Panchayat #124,Cluster A - North Plains,Grid Electric 10HP,66 days,6,"₹ 10,918",146.08 L/kWh,3.1,1,0.46,0
+PUMP-JJM-0295,Gram Panchayat #125,Cluster D - Western Arid Zone,Solar Submersible 5HP,32 days,0,"₹ 30,413",141.43 L/kWh,4.4,0,0.56,0
+PUMP-JJM-0296,Gram Panchayat #126,Cluster C - Eastern Delta,Solar Submersible 5HP,58 days,1,"₹ 31,602",120.34 L/kWh,8.1,0,0.16,0
+PUMP-JJM-0297,Gram Panchayat #127,Cluster A - North Plains,Solar Submersible 5HP,74 days,6,14545,141.50 L/kWh,8.9,0,0.47,0
+PUMP-JJM-0298,Gram Panchayat #128,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,103 days,0,"₹ 15,164",70.48 L/kWh,4.9,1,0.33,1
+PUMP-JJM-0299,Gram Panchayat #129,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,28 days,3,20301,81.17,6.3,0,0.64,0
+PUMP-JJM-0300,Gram Panchayat #130,Cluster C - Eastern Delta,Grid Electric 10HP,36 days,5,"₹ 21,808",51.44 L/kWh,10.7,0,1.12,0
+PUMP-JJM-0301,Gram Panchayat #131,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,104 days,6,"₹ 39,823",84.69 L/kWh,3.8,0,0.62,0
+PUMP-JJM-0302,Gram Panchayat #132,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,75 days,5,"₹ 37,989",127.41 L/kWh,10.3,0,1.12,0
+PUMP-JJM-0303,Gram Panchayat #133,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,113 days,4,"₹ 12,370",99.27 L/kWh,9.5,1,0.74,0
+PUMP-JJM-0304,Gram Panchayat #134,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,112 days,2,"₹ 28,056",148.00 L/kWh,10.0,0,0.27,0
+PUMP-JJM-0305,Gram Panchayat #135,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,75,4,"₹ 41,175",176.22 L/kWh,7.3,1,0.43,0
+PUMP-JJM-0306,Gram Panchayat #136,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,26 days,2,"₹ 27,316",141.78,11.9,1,3.88,0
+PUMP-JJM-0307,Gram Panchayat #137,Cluster B - Southern Hills,Handpump Motor Assist 3HP,43 days,5,"₹ 12,088",105.31 L/kWh,6.8,0,1.34,0
+PUMP-JJM-0308,Gram Panchayat #138,Cluster A - North Plains,Grid Electric 10HP,56 days,5,"₹ 28,641",121.15 L/kWh,6.3,1,0.44,0
+PUMP-JJM-0309,Gram Panchayat #139,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,97 days,6,"₹ 35,301",129.19 L/kWh,8.5,0,1.06,0
+PUMP-JJM-0310,Gram Panchayat #140,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,22 days,0,"₹ 3,496",158.98 L/kWh,5.3,0,1.17,0
+PUMP-JJM-0311,Gram Panchayat #141,Cluster B - Southern Hills,Grid Electric 10HP,116 days,3,24043,110.02 L/kWh,11.1,1,0.02,0
+PUMP-JJM-0312,Gram Panchayat #142,Cluster A - North Plains,Solar Submersible 5HP,16 days,2,"₹ 43,133",88.99,10.0,0,0.92,0
+PUMP-JJM-0313,Gram Panchayat #143,Cluster A - North Plains,Dual Solar-Grid 7.5HP,89 days,0,27813,93.11 L/kWh,4.9,1,0.21,0
+PUMP-JJM-0314,Gram Panchayat #144,Cluster A - North Plains,Dual Solar-Grid 7.5HP,80 days,4,9489,116.16 L/kWh,6.5,1,0.64,0
+PUMP-JJM-0315,Gram Panchayat #100,Cluster D - Western Arid Zone,Grid Electric 10HP,26 days,6,"₹ 17,735",156.12 L/kWh,5.9,0,0.16,0
+PUMP-JJM-0316,Gram Panchayat #101,Cluster B - Southern Hills,Solar Submersible 5HP,2 days,5,6332,27.95 L/kWh,11.1,1,1.0,1
+PUMP-JJM-0317,Gram Panchayat #102,Cluster B - Southern Hills,Solar Submersible 5HP,116 days,2,"₹ 42,727",122.37 L/kWh,5.3,0,0.09,0
+PUMP-JJM-0318,Gram Panchayat #103,Cluster B - Southern Hills,Grid Electric 10HP,55 days,5,"₹ 8,095",200.00 L/kWh,3.4,1,0.04,0
+PUMP-JJM-0319,Gram Panchayat #104,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,35 days,5,"₹ 6,591",87.67 L/kWh,3.6,0,0.55,0
+PUMP-JJM-0320,Gram Panchayat #105,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,15 days,1,"₹ 4,343",133.01 L/kWh,11.8,1,0.1,0
+PUMP-JJM-0321,Gram Panchayat #106,Cluster C - Eastern Delta,Solar Submersible 5HP,4 days,6,"₹ 9,062",69.72 L/kWh,10.9,0,0.06,0
+PUMP-JJM-0322,Gram Panchayat #107,Cluster A - North Plains,Handpump Motor Assist 3HP,74 days,5,"₹ 37,528",114.30 L/kWh,4.6,1,1.86,0
+PUMP-JJM-0323,Gram Panchayat #108,Cluster B - Southern Hills,Handpump Motor Assist 3HP,87 days,5,"₹ 25,723",148.95,11.0,0,0.01,0
+PUMP-JJM-0324,Gram Panchayat #109,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,63 days,2,16287,162.66 L/kWh,5.6,0,0.64,0
+PUMP-JJM-0325,Gram Panchayat #110,Cluster A - North Plains,Handpump Motor Assist 3HP,74 days,3,"₹ 6,268",133.65,3.6,0,0.95,0
+PUMP-JJM-0326,Gram Panchayat #111,Cluster B - Southern Hills,Handpump Motor Assist 3HP,12 days,6,"₹ 40,097",80.13,11.7,0,1.99,0
+PUMP-JJM-0327,Gram Panchayat #112,Cluster D - Western Arid Zone,Solar Submersible 5HP,29,6,"₹ 30,283",80.55,8.2,1,0.41,0
+PUMP-JJM-0328,Gram Panchayat #113,Cluster A - North Plains,Solar Submersible 5HP,46 days,6,"₹ 42,027",162.02 L/kWh,11.7,0,0.66,0
+PUMP-JJM-0329,Gram Panchayat #114,Cluster D - Western Arid Zone,Grid Electric 10HP,96 days,5,27318,147.63 L/kWh,4.3,1,0.45,0
+PUMP-JJM-0330,Gram Panchayat #115,Cluster B - Southern Hills,Handpump Motor Assist 3HP,119,5,"₹ 44,549",139.94 L/kWh,8.1,1,0.54,0
+PUMP-JJM-0331,Gram Panchayat #116,Cluster B - Southern Hills,Solar Submersible 5HP,56 days,6,"₹ 38,846",68.53 L/kWh,11.3,0,0.78,0
+PUMP-JJM-0332,Gram Panchayat #117,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,65 days,3,"₹ 27,937",114.46 L/kWh,11.8,1,1.29,0
+PUMP-JJM-0333,Gram Panchayat #118,Cluster C - Eastern Delta,Grid Electric 10HP,18 days,1,"₹ 27,549",51.63 L/kWh,7.4,1,0.71,0
+PUMP-JJM-0334,Gram Panchayat #119,Cluster C - Eastern Delta,Solar Submersible 5HP,45 days,5,"₹ 9,194",66.16 L/kWh,11.8,1,2.86,0
+PUMP-JJM-0335,Gram Panchayat #120,Cluster A - North Plains,Solar Submersible 5HP,86,5,27859,76.03 L/kWh,7.6,1,0.49,0
+PUMP-JJM-0336,Gram Panchayat #121,Cluster A - North Plains,Dual Solar-Grid 7.5HP,26 days,2,"₹ 11,047",44.11 L/kWh,11.8,1,0.14,1
+PUMP-JJM-0337,Gram Panchayat #122,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,58 days,0,40877,148.78 L/kWh,10.7,1,0.74,0
+PUMP-JJM-0338,Gram Panchayat #123,Cluster B - Southern Hills,Handpump Motor Assist 3HP,54 days,6,"₹ 20,990",67.67 L/kWh,11.7,0,1.23,0
+PUMP-JJM-0339,Gram Panchayat #124,Cluster B - Southern Hills,Solar Submersible 5HP,83 days,2,"₹ 39,060",64.43 L/kWh,9.9,1,0.31,0
+PUMP-JJM-0340,Gram Panchayat #125,Cluster C - Eastern Delta,Solar Submersible 5HP,49 days,0,"₹ 28,582",96.26 L/kWh,5.2,0,0.16,0
+PUMP-JJM-0341,Gram Panchayat #126,Cluster C - Eastern Delta,Solar Submersible 5HP,20 days,2,"₹ 39,617",187.13 L/kWh,8.3,1,0.61,0
+PUMP-JJM-0342,Gram Panchayat #127,Cluster D - Western Arid Zone,Solar Submersible 5HP,24 days,4,"₹ 4,968",135.52 L/kWh,10.0,0,0.7,0
+PUMP-JJM-0343,Gram Panchayat #128,Cluster A - North Plains,Solar Submersible 5HP,43 days,2,"₹ 19,739",121.52 L/kWh,7.5,1,1.56,0
+PUMP-JJM-0344,Gram Panchayat #129,Cluster A - North Plains,Handpump Motor Assist 3HP,79 days,4,"₹ 16,479",167.36,11.6,1,0.35,0
+PUMP-JJM-0345,Gram Panchayat #130,Cluster C - Eastern Delta,Solar Submersible 5HP,67 days,6,"₹ 25,073",68.44 L/kWh,7.1,0,0.95,0
+PUMP-JJM-0346,Gram Panchayat #131,Cluster B - Southern Hills,Handpump Motor Assist 3HP,69 days,4,₹ 980,106.25 L/kWh,8.5,0,0.89,0
+PUMP-JJM-0347,Gram Panchayat #132,Cluster C - Eastern Delta,Solar Submersible 5HP,113,5,29023,59.80 L/kWh,9.6,0,0.55,0
+PUMP-JJM-0348,Gram Panchayat #133,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,72 days,0,38180,43.95 L/kWh,10.3,1,0.47,1
+PUMP-JJM-0349,Gram Panchayat #134,Cluster C - Eastern Delta,Solar Submersible 5HP,69 days,0,"₹ 42,536",107.65 L/kWh,9.6,0,1.7,0
+PUMP-JJM-0350,Gram Panchayat #135,Cluster B - Southern Hills,Grid Electric 10HP,37 days,6,"₹ 29,183",97.57 L/kWh,6.1,1,0.03,0
+PUMP-JJM-0351,Gram Panchayat #136,Cluster C - Eastern Delta,Solar Submersible 5HP,70 days,2,"₹ 42,052",142.50 L/kWh,11.2,1,1.18,0
+PUMP-JJM-0352,Gram Panchayat #137,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,1 days,4,"₹ 39,602",151.41 L/kWh,6.2,0,0.08,0
+PUMP-JJM-0353,Gram Panchayat #138,Cluster A - North Plains,Handpump Motor Assist 3HP,19 days,1,12558,122.12 L/kWh,4.3,0,1.45,0
+PUMP-JJM-0354,Gram Panchayat #139,Cluster B - Southern Hills,Grid Electric 10HP,33 days,0,"₹ 13,437",175.30 L/kWh,9.4,0,0.36,0
+PUMP-JJM-0355,Gram Panchayat #140,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,41 days,3,"₹ 30,033",85.72 L/kWh,9.1,0,0.75,0
+PUMP-JJM-0356,Gram Panchayat #141,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,92 days,5,"₹ 42,497",155.27 L/kWh,6.6,1,0.13,0
+PUMP-JJM-0357,Gram Panchayat #142,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,71 days,0,"₹ 12,019",101.17 L/kWh,5.2,1,2.0,1
+PUMP-JJM-0358,Gram Panchayat #143,Cluster B - Southern Hills,Solar Submersible 5HP,115 days,0,"₹ 33,738",98.53 L/kWh,8.5,1,0.78,1
+PUMP-JJM-0359,Gram Panchayat #144,Cluster D - Western Arid Zone,Solar Submersible 5HP,61 days,5,"₹ 10,240",93.45 L/kWh,9.8,1,0.31,0
+PUMP-JJM-0360,Gram Panchayat #100,Cluster B - Southern Hills,Grid Electric 10HP,109 days,6,"₹ 40,741",128.58 L/kWh,9.0,1,0.14,0
+PUMP-JJM-0361,Gram Panchayat #101,Cluster B - Southern Hills,Solar Submersible 5HP,19 days,5,"₹ 32,186",119.33 L/kWh,9.7,0,0.28,0
+PUMP-JJM-0362,Gram Panchayat #102,Cluster A - North Plains,Dual Solar-Grid 7.5HP,50 days,3,"₹ 30,295",106.25 L/kWh,10.9,0,0.94,0
+PUMP-JJM-0363,Gram Panchayat #103,Cluster B - Southern Hills,Handpump Motor Assist 3HP,23 days,3,"₹ 43,339",76.34 L/kWh,11.0,0,0.26,0
+PUMP-JJM-0364,Gram Panchayat #104,Cluster A - North Plains,Dual Solar-Grid 7.5HP,62 days,4,₹ 932,142.21 L/kWh,7.3,0,0.16,0
+PUMP-JJM-0365,Gram Panchayat #105,Cluster D - Western Arid Zone,Grid Electric 10HP,92 days,6,"₹ 8,254",90.81 L/kWh,5.6,0,1.01,0
+PUMP-JJM-0366,Gram Panchayat #106,Cluster A - North Plains,Grid Electric 10HP,32,0,"₹ 8,881",79.28 L/kWh,7.9,0,0.89,0
+PUMP-JJM-0367,Gram Panchayat #107,Cluster B - Southern Hills,Handpump Motor Assist 3HP,52 days,4,"₹ 37,436",63.37 L/kWh,9.4,1,2.65,0
+PUMP-JJM-0368,Gram Panchayat #108,Cluster B - Southern Hills,Dual Solar-Grid 7.5HP,29 days,6,"₹ 27,420",55.32 L/kWh,8.2,1,1.55,0
+PUMP-JJM-0369,Gram Panchayat #109,Cluster D - Western Arid Zone,Grid Electric 10HP,77 days,4,"₹ 5,011",114.37 L/kWh,3.5,0,1.77,0
+PUMP-JJM-0370,Gram Panchayat #110,Cluster B - Southern Hills,Solar Submersible 5HP,77 days,0,"₹ 35,327",144.26 L/kWh,7.3,0,0.59,0
+PUMP-JJM-0371,Gram Panchayat #111,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,67 days,3,"₹ 24,773",148.24 L/kWh,6.6,1,0.59,0
+PUMP-JJM-0372,Gram Panchayat #112,Cluster A - North Plains,Dual Solar-Grid 7.5HP,90 days,4,"₹ 6,903",71.68 L/kWh,6.5,0,1.31,1
+PUMP-JJM-0373,Gram Panchayat #113,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,1 days,5,₹ 966,94.54 L/kWh,2.6,1,1.05,0
+PUMP-JJM-0374,Gram Panchayat #114,Cluster D - Western Arid Zone,Grid Electric 10HP,33 days,2,"₹ 35,634",101.75 L/kWh,6.5,0,0.29,0
+PUMP-JJM-0375,Gram Panchayat #115,Cluster B - Southern Hills,Solar Submersible 5HP,48 days,4,"₹ 36,866",15.00 L/kWh,8.0,1,0.46,1
+PUMP-JJM-0376,Gram Panchayat #116,Cluster A - North Plains,Grid Electric 10HP,21 days,0,"₹ 14,554",120.66 L/kWh,7.3,1,1.45,0
+PUMP-JJM-0377,Gram Panchayat #117,Cluster A - North Plains,Handpump Motor Assist 3HP,106 days,1,"₹ 31,411",143.43 L/kWh,3.1,0,0.08,0
+PUMP-JJM-0378,Gram Panchayat #118,Cluster D - Western Arid Zone,Handpump Motor Assist 3HP,37,5,"₹ 39,655",93.19 L/kWh,3.0,1,0.17,0
+PUMP-JJM-0379,Gram Panchayat #119,Cluster A - North Plains,Dual Solar-Grid 7.5HP,67 days,2,13262,156.30 L/kWh,7.4,0,0.17,0
+PUMP-JJM-0380,Gram Panchayat #120,Cluster A - North Plains,Solar Submersible 5HP,36 days,6,"₹ 26,677",119.92 L/kWh,5.9,0,0.79,0
+PUMP-JJM-0381,Gram Panchayat #121,Cluster D - Western Arid Zone,Solar Submersible 5HP,72 days,4,"₹ 23,312",73.01 L/kWh,4.6,1,0.55,0
+PUMP-JJM-0382,Gram Panchayat #122,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,10 days,4,"₹ 19,784",162.65 L/kWh,5.7,0,0.65,0
+PUMP-JJM-0383,Gram Panchayat #123,Cluster A - North Plains,Dual Solar-Grid 7.5HP,99,1,"₹ 22,760",147.64 L/kWh,6.9,0,0.02,0
+PUMP-JJM-0384,Gram Panchayat #124,Cluster A - North Plains,Dual Solar-Grid 7.5HP,87 days,5,15568,100.65 L/kWh,10.1,0,0.39,0
+PUMP-JJM-0385,Gram Panchayat #125,Cluster B - Southern Hills,Grid Electric 10HP,106 days,2,"₹ 5,482",89.33 L/kWh,5.5,0,0.77,1
+PUMP-JJM-0386,Gram Panchayat #126,Cluster C - Eastern Delta,Grid Electric 10HP,112 days,2,14051,102.62,4.7,1,1.63,1
+PUMP-JJM-0387,Gram Panchayat #127,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,85 days,3,"₹ 40,727",178.98 L/kWh,11.6,1,0.42,0
+PUMP-JJM-0388,Gram Panchayat #128,Cluster B - Southern Hills,Grid Electric 10HP,36,3,"₹ 12,484",112.87 L/kWh,11.9,1,0.3,0
+PUMP-JJM-0389,Gram Panchayat #129,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,70 days,0,33430,70.14 L/kWh,9.9,0,0.12,0
+PUMP-JJM-0390,Gram Panchayat #130,Cluster C - Eastern Delta,Grid Electric 10HP,75 days,0,"₹ 21,827",166.88 L/kWh,5.9,1,0.19,0
+PUMP-JJM-0391,Gram Panchayat #131,Cluster B - Southern Hills,Grid Electric 10HP,24 days,3,"₹ 28,283",123.34 L/kWh,6.0,1,0.3,0
+PUMP-JJM-0392,Gram Panchayat #132,Cluster B - Southern Hills,Handpump Motor Assist 3HP,93 days,2,"₹ 15,953",162.70 L/kWh,7.8,1,0.2,0
+PUMP-JJM-0393,Gram Panchayat #133,Cluster A - North Plains,Handpump Motor Assist 3HP,115,6,"₹ 41,830",54.43 L/kWh,10.0,0,0.74,0
+PUMP-JJM-0394,Gram Panchayat #134,Cluster C - Eastern Delta,Dual Solar-Grid 7.5HP,33 days,3,"₹ 41,778",104.04 L/kWh,3.4,1,0.27,0
+PUMP-JJM-0395,Gram Panchayat #135,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,87 days,4,"₹ 13,538",65.09,7.6,1,0.3,0
+PUMP-JJM-0396,Gram Panchayat #136,Cluster C - Eastern Delta,Handpump Motor Assist 3HP,79 days,2,"₹ 30,892",86.46 L/kWh,8.5,0,0.17,0
+PUMP-JJM-0397,Gram Panchayat #137,Cluster D - Western Arid Zone,Dual Solar-Grid 7.5HP,10 days,0,"₹ 11,116",93.15 L/kWh,8.7,1,0.84,0
+PUMP-JJM-0398,Gram Panchayat #138,Cluster A - North Plains,Grid Electric 10HP,96 days,4,"₹ 34,640",135.25 L/kWh,11.7,0,0.18,0
+PUMP-JJM-0399,Gram Panchayat #139,Cluster A - North Plains,Solar Submersible 5HP,90 days,5,"₹ 5,747",118.63 L/kWh,3.4,1,0.58,0
+PUMP-JJM-0400,Gram Panchayat #140,Cluster C - Eastern Delta,Grid Electric 10HP,14 days,2,"₹ 41,007",144.13 L/kWh,4.0,1,1.95,0
